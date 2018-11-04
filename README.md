@@ -75,5 +75,5 @@ Once the whole process is complete participant of the supply chain or any certif
 - npm i
 - node app.js
 
-[demo video](https://drive.google.com/open?id=11C_WZe3uJ4H-khqNWQcYvuDQwLJo5ZZL)
+[demo videos of both_projects](https://drive.google.com/open?id=11C_WZe3uJ4H-khqNWQcYvuDQwLJo5ZZL)
 
