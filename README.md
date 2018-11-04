@@ -4,7 +4,7 @@
 **(a blockchain based waste-management system)**
 
 ****OVERVIEW****
-Scrapers is a blockchain based solution to the present problem of waste disposal without treatment.The platform atmomates and collects the waste produced in the household by the concerned authority in a supply-chain and passing the tenderised amount to the selected Company which recycles the waste and this whole process is securely insured without any faulty activity via supply-chain solution of blockchain.
+Scraper is a blockchain based solution to the present problem of waste disposal without treatment.The platform atmomates and collects the waste produced in the household by the concerned authority in a supply-chain and passing the tenderised amount to the selected Company which recycles the waste and this whole process is securely insured without any faulty activity via supply-chain solution of blockchain.
 
 **Flaws based on stats-**
 1.  About 20% of garbage is not collected from household and add up to littering of nearby.
