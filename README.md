@@ -38,6 +38,7 @@ Once the whole process is complete participant of the supply chain or any certif
 -------------------------------------------------------------------------------------
 
 **Important Note-**
+*Two Projects* have been submited-
 1) A centralized server based platform for waste-management this is only for present use and every aspect of the platform has to replaced by a decentralized blockchain based platform.
 1) A decentralized blockchain based futuristic model of handling waste.
 
